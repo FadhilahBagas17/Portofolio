@@ -28,4 +28,4 @@ The dataset I use for this model is varies, but i use three dataset :
 
 
 # Result
-I have made 
+I have made several model for this cacao disease detection. Based on the models that I create, the best model is 
