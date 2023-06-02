@@ -1,2 +1,2 @@
 # Cacao Disease Detection Model
-a
+Indonesia's cocoa productivity is decreasing due to plant maintenance issues and pest/disease attacks, with a projected 0.97% decline in 2021. To help improve cocoa productivity and quality, an idea has been proposed to develop a disease detection application. The objective is to promptly identify and classify cocoa diseases using machine learning technology, providing insights for better prevention and treatment.
