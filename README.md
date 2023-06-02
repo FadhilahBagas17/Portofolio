@@ -21,7 +21,7 @@ Overall, this model represents a promising approach to predicting cocoa diseases
 
 
 # Dataset
-The dataset I use for this model is varies, but i use three dataset : 
+I used three different datasets for this model, each with varying characteristics. Incorporating multiple datasets helped to improve the overall accuracy and robustness of the model : 
 1. Cacao Diseases by ZALDY JR. PAGADUAN https://www.kaggle.com/datasets/zaldyjr/cacao-diseases
 2. Cocoa Diseases (YOLOv4) by SEBASTIAN SERRANO and Juan Felipe Heredia Gómez https://www.kaggle.com/datasets/serranosebas/enfermedades-cacao-yolov4
 3. The combination of those two dataset that I upload in this github
