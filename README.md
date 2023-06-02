@@ -31,7 +31,7 @@ I used three different datasets for this model, each with varying characteristic
 
 
 # Result
-After creating multiple models for cacao disease detection, the model 'cocoa_disease_5' demonstrated the highest accuracy rate of 0.93. In comparison to the other models with accuracy rates ranging from 0.75 to 0.87, this particular model is significantly more accurate in predicting cacao disease.
+After conducting extensive experimentation and developing multiple models for detecting cacao diseases, the model 'cocoa_disease_5' exhibited the highest accuracy rate of 0.93. This shows that the model has the capability to identify and classify cacao diseases with a high degree of accuracy. In contrast, the other models developed in the experiment exhibited accuracy rates within a range of 0.75 to 0.87. This significant difference in accuracy rates between 'cocoa_disease_5' and the other models highlights its superior performance in predicting cacao diseases. The high accuracy rates achieved by the model have the potential to positively impact cocoa farming practices by enabling early detection of diseases, preventing spread, and minimizing crop damage.
 
 
 # Accuracy
