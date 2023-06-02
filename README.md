@@ -9,3 +9,13 @@ Furthermore, by identifying and classifying cocoa diseases through machine learn
 
 In conclusion, the development of a machine learning model that can identify and classify cocoa diseases can significantly improve the situation in Indonesia's cocoa industry, where disease outbreaks are a significant problem. By enabling prompt disease detection and prevention measures, such models have the potential to increase cocoa productivity, improve cocoa quality, and enhance the livelihoods of cocoa farmers.
 
+
+#The goal
+The main objective of this model is to accurately predict cocoa diseases using images that the model has never encountered before. To achieve this, the dataset is first divided into three parts: the training set, the validation set, and the test set. The training and validation sets are used to train the model, while the test set is used to evaluate the performance of the model on previously unseen data.
+
+During the training phase, the model is presented with a large number of images, each with a label indicating the type of cocoa disease present. The model uses these images and labels to learn how to recognize and differentiate between different types of cocoa diseases. The validation set is used to monitor the progress of the model during training, and to prevent overfitting by identifying when the model begins to focus too much on the training data at the expense of generalization.
+
+Once the model has been trained, it is tested on the previously unseen test set to evaluate its effectiveness in accurately predicting cocoa diseases. The accuracy of the model on the test set is a measure of its ability to generalize to new and previously unseen data, and is a critical metric for assessing the reliability of the model in real-world scenarios.
+
+Overall, this model represents a promising approach to predicting cocoa diseases and has the potential to improve the efficiency and productivity of cocoa farming by identifying and addressing diseases before they cause significant harm to crops. 
+
