@@ -28,4 +28,4 @@ The dataset I use for this model is varies, but i use three dataset :
 
 
 # Result
-I have made several model for this cacao disease detection. Based on the models that I create, the best model is 
+After creating multiple models for cacao disease detection, the model 'cocoa_disease_5' demonstrated the highest accuracy rate of 0.93. In comparison to the other models with accuracy rates ranging from 0.75 to 0.87, this particular model is significantly more accurate in predicting cacao disease.
