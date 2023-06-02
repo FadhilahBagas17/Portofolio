@@ -31,7 +31,11 @@ I used three different datasets for this model, each with varying characteristic
 
 
 # Method
+I have used Google Colaboratory as a tool for my project, where I loaded a dataset from Kaggle to Google Colab, then I utilized a Convolutional Neural Network (CNN), which is a type of deep learning neural network commonly used for image recognition and classification tasks . One of the techniques I used to advance my model's accuracy and robustness was data augmentation, which increases the diversity and quality of the training data by applying transformations such as random rotations, zooming, and flipping to the existing data. This technique is particularly useful when training data is limited since it can effectively produce new and more diverse data, reducing the risk of overfitting.
 
+After splitting the data into training, validation, and testing sets, I built layers on my model using different combinations of layers in different models. I used these variations to determine which combinations resulted in the best accuracy. Finally, I tested the model using the testing dataset to predict the cocoa disease precisely. Moreover, the model's precision accuracy was measured for each predicted disease, not just for overall accuracy. By doing so, I can analyze and improve the performance of my model on a specific type of cocoa disease.
+
+Overall, the employed data augmentation and experimented with different variations of my model's layers using CNN to achieve the highest accuracy in predicting cocoa disease. This approach of using CNN and data augmentation has broad applications in various computer vision problems such as object detection, segmentation, and medical imaging.
 
 
 # Result
