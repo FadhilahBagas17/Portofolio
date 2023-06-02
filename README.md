@@ -35,4 +35,4 @@ After creating multiple models for cacao disease detection, the model 'cocoa_dis
 
 
 # Accuracy
-![image](https://github.com/FadhilahBagas17/Portofolio/assets/100406260/9969a8a7-ba84-48f0-8882-1abbd15091b0)
+![image](https://github.com/FadhilahBagas17/Portofolio/assets/100406260/c6d7e6d5-8f10-49d5-86a9-3d0d6a32cd8e)
