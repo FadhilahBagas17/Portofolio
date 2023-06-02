@@ -1,4 +1,4 @@
-# Cacao Disease Detection Model
+# Cacao Diseases Detection Model
 Indonesia is a significant player in the global cocoa industry, being ranked third in terms of cocoa production. However, the cocoa industry in Indonesia has been struggling with decreased productivity, which is attributed to various factors. According to Ariningsih (2021), one of the biggest reasons for the decreased cocoa productivity is the lack of proper plant maintenance, coupled with pest and disease outbreaks that have affected the crops. As a result, the country has experienced a decline in cocoa production for three consecutive years, with a projected decrease of 0.97% in 2021 compared to the previous year (BPS, 2021).
 
 To address this issue, it is essential to find solutions that can help improve cocoa productivity, quality, and disease control in Indonesia's cocoa industry. One possible solution is the development of a machine learning model that can identify and classify cocoa diseases for quicker detection and better prevention and treatment methods. This model can provide insights on cocoa diseases, enabling better understanding, and effective prevention measures.
