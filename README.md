@@ -26,6 +26,13 @@ The dataset I use for this model is varies, but i use three dataset :
 2. Cocoa Diseases (YOLOv4) by SEBASTIAN SERRANO and Juan Felipe Heredia Gómez https://www.kaggle.com/datasets/serranosebas/enfermedades-cacao-yolov4
 3. The combination of those two dataset that I upload in this github
 
+# Photo Samples
+![121](https://github.com/FadhilahBagas17/Portofolio/assets/100406260/dfc0bbb6-eff3-46b2-b9fc-f9094f44e636)
+
 
 # Result
 After creating multiple models for cacao disease detection, the model 'cocoa_disease_5' demonstrated the highest accuracy rate of 0.93. In comparison to the other models with accuracy rates ranging from 0.75 to 0.87, this particular model is significantly more accurate in predicting cacao disease.
+
+
+# Accuracy
+![122](https://github.com/FadhilahBagas17/Portofolio/assets/100406260/0ba24d54-9e8a-4665-bb98-2e366f671e2a)
