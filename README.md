@@ -19,3 +19,13 @@ Once the model has been trained, it is tested on the previously unseen test set 
 
 Overall, this model represents a promising approach to predicting cocoa diseases and has the potential to improve the efficiency and productivity of cocoa farming by identifying and addressing diseases before they cause significant harm to crops. 
 
+
+# Dataset
+The dataset I use for this model is varies, but i use three dataset : 
+1. Cacao Diseases by ZALDY JR. PAGADUAN https://www.kaggle.com/datasets/zaldyjr/cacao-diseases
+2. Cocoa Diseases (YOLOv4) by SEBASTIAN SERRANO and Juan Felipe Heredia Gómez https://www.kaggle.com/datasets/serranosebas/enfermedades-cacao-yolov4
+3. The combination of those two dataset that I upload in this github
+
+
+# Result
+I have made 
